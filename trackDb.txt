@@ -1,0 +1,27 @@
+track cellage
+shortLabel CellAge
+longLabel CellAge gene regions
+type bigBed 4
+bigDataUrl cellage_chr.bb
+visibility pack
+
+track genage
+shortLabel GeneAge
+longLabel GeneAge gene regions
+type bigBed 4
+bigDataUrl genage_human_chr.bb
+visibility pack
+
+track genDR
+shortLabel GeneDR
+longLabel GeneDR gene regions
+type bigBed 4
+bigDataUrl genDR_human_homologues.bb
+visibility pack
+
+track longevity
+shortLabel Longevity
+longLabel Longevity gene variants
+type bigBed 4
+bigDataUrl longevity_gene_variants_chr.bb
+visibility pack

@@ -1,0 +1,5 @@
+hub HAGR
+shortLabel HAGR
+longLabel Human Ageing Genomic Resources (CellAge, GenAge, GeneDR, LongevityMap)
+genomesFile genomes.txt
+email eeshani.abhyankar@gmail.com
